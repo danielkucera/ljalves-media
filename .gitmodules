@@ -1,0 +1,7 @@
+[submodule "media_build"]
+	path = media_build
+	url = https://github.com/ljalves/media_build.git
+[submodule "media"]
+	path = media
+	url = https://github.com/ljalves/linux_media.git
+	branch = latest
