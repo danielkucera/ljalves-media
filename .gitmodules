@@ -5,3 +5,4 @@
 	path = media
 	url = https://github.com/tbsdtv/linux_media.git
 	branch = latest
+	shallow = true
